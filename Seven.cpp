@@ -40,12 +40,12 @@ int main()
                 cout << i << endl;
             }
         }
-        /*               else {
+                      else {
                            for (int i = chislo2; i <= chislo1; i++) {
                                if (i % 2 == 0) {
                                    cout << i << endl;
                                }
-                               */
+                              
                                /* четные числа при произвольном порядке не работает*/
         cout << endl;
         cout << "Нечетные числа: " << endl;
